@@ -9,7 +9,7 @@ Improvements by Goran Grubić (http://blog.veles.rs):
 
 > This is controllable from: Configuration.doAutoOpenDefaultBrowser
 
-* Log files creation is now possible to turn off from: Configuration.doDisableLogFiles 
+* Log files creation is now possible to turn off from configuration
 
 > This is controllable from: Configuration.doDisableLogFiles
 
