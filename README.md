@@ -13,6 +13,8 @@ Improvements by Goran Grubić (http://blog.veles.rs):
 
 > This is controllable from: Configuration.doDisableLogFiles
 
+* Added sample site content (actually Bootstrap 4 Scrolling Nav template)
+
 --------------------------------------
 
 Original project by: TheCodeCleaner
