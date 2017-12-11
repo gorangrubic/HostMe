@@ -1,4 +1,6 @@
 ﻿{
-  "Path":  "site",
-  "Port": 8080
+  "Path": "site",
+  "Port": 8080,
+  "doAutoSelectUnusedPort": true,
+  "doAutoOpenDefaultBrowser": true
 }
