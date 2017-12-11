@@ -1,7 +1,7 @@
 # HostMe (imbVeles fork)
 Improvements by Goran Grubić (http://blog.veles.rs):
 
-* Supports multiple instances running as it is able to auto detect unused port and reassign it if the one from the configuration is already server. 
+* Supports multiple instances running as it is able to auto detect unused port and reassign it if the one from the configuration is already served. 
 
 > This is controllable from: Configuration.doAutoSelectUnusedPort
 
